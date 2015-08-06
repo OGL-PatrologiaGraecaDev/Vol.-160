@@ -1,0 +1,28 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/160/hvd.32044036446961/019.png"; bbox 0 0 4078 6482; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1655 4289 2304 4452">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1655 4289 2304 4452">
+     <span class='ocr_line' id='line_1_1' title="bbox 1655 4289 2304 4452; baseline -0.003 -2"><span class='ocrx_word' id='word_1_1' title='bbox 1655 4289 1658 4291; x_wconf 15' lang='grc' dir='ltr'>λ</span> <span class='ocrx_word' id='word_1_2' title='bbox 1724 4350 1868 4433; x_wconf 77' lang='lat' dir='ltr'>MM</span> <span class='ocrx_word' id='word_1_3' title='bbox 1948 4356 1996 4451; x_wconf 87' lang='grc' dir='ltr'>ο</span> <span class='ocrx_word' id='word_1_4' title='bbox 2048 4352 2090 4441; x_wconf 86' lang='lat'><em>7</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 2137 4360 2304 4452; x_wconf 85' lang='lat' dir='ltr'>20m</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1609 4122 2536 4185">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1609 4122 2536 4185">
+     <span class='ocr_line' id='line_1_2' title="bbox 1609 4122 2536 4185; baseline 0.003 -3"><span class='ocrx_word' id='word_1_6' title='bbox 1609 4122 1983 4184; x_wconf 61' lang='lat' dir='ltr'>“HARVARD</span> <span class='ocrx_word' id='word_1_7' title='bbox 2010 4135 2365 4185; x_wconf 55' lang='lat' dir='ltr'>ummnsarv</span> <span class='ocrx_word' id='word_1_8' title='bbox 2437 4129 2452 4134; x_wconf 83' lang='grc'>”</span> <span class='ocrx_word' id='word_1_9' title='bbox 2527 4167 2536 4185; x_wconf 55' lang='lat'>.~</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1524 4141 2160 4697">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1524 4141 2160 4697">
+     <span class='ocr_line' id='line_1_3' title="bbox 1699 4141 2160 4247; baseline -0.004 -1"><span class='ocrx_word' id='word_1_10' title='bbox 1699 4141 2160 4247; x_wconf 55' lang='lat' dir='ltr'>&quot;malam</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1524 4141 2160 4697; baseline 0.016 -266"><span class='ocrx_word' id='word_1_11' title='bbox 1524 4141 1576 4697; x_wconf 40' lang='grc' dir='ltr'><strong>Ι</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1724 4350 1868 4433; x_wconf 79' lang='lat' dir='ltr'>MM</span> <span class='ocrx_word' id='word_1_13' title='bbox 1948 4356 1996 4451; x_wconf 89' lang='lat'>0</span> <span class='ocrx_word' id='word_1_14' title='bbox 2048 4352 2090 4441; x_wconf 88' lang='lat'><em>7</em></span> <span class='ocrx_word' id='word_1_15' title='bbox 2137 4363 2160 4452; x_wconf 74' lang='grc' dir='ltr'>ξ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 2522 4177 2540 4622">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 2522 4177 2540 4622">
+     <span class='ocr_line' id='line_1_5' title="bbox 2522 4177 2540 4622; baseline 0 0"><span class='ocrx_word' id='word_1_16' title='bbox 2522 4177 2540 4622; x_wconf 72' lang='grc'><strong><em>1</em></strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
